@@ -35,7 +35,7 @@ body {
   background: transparent;
 }
 .appMount-2yBXZl {
-  background: #000 url("https://i.imgur.com/J2UB0KF.jpg") center/cover no-repeat;
+  background: #000 url("https://i.imgur.com/l8ak1qA.jpg") center/cover no-repeat;
 }
 .app-2CXKsg {
   background: transparent;
